@@ -15,4 +15,14 @@ How It all Started:
 Comments
 Variables
 
-## More Comming soon
+## Comming Up
+  Numerical Operators
+  Functions
+  If
+  If Else
+  Creating a Simple Module
+  Using Modules
+  
+### Comming Projects
+  Simple Calculator
+  Simple Web Server with Express
