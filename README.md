@@ -15,9 +15,13 @@ How It all Started:
 Comments
 Variables
 
+### Counting
+Numerical Operatiors
+
+### Functions
+Grouping Code in Functions
+
 ## Comming Up
-  Numerical Operators
-  Functions
   If
   If Else
   Creating a Simple Module
