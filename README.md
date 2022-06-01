@@ -26,7 +26,7 @@ Grouping Code in Functions
   If Else
 
 ## Comming Up
-  Loops
+  For Loops
   Creating a Simple Module
   Using Modules
   
