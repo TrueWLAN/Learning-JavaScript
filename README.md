@@ -21,9 +21,12 @@ Numerical Operatiors
 ### Functions
 Grouping Code in Functions
 
-## Comming Up
+### If Else Statements
   If
   If Else
+
+## Comming Up
+  Loops
   Creating a Simple Module
   Using Modules
   
