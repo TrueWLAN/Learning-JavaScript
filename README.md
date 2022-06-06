@@ -24,11 +24,14 @@ Grouping Code in Functions
 ### If Else Statements
   If
   If Else
+  
+### Modules
+Using Modules
+Creating Modules
 
 ## Comming Up
   For Loops
-  Creating a Simple Module
-  Using Modules
+  While Loops
   
 ### Comming Projects
   Simple Calculator
