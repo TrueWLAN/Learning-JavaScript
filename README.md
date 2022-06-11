@@ -34,5 +34,5 @@ Creating Modules
   While Loops
   
 ### Comming Projects
+  Simple Website with Express
   Simple Calculator
-  Simple Web Server with Express
